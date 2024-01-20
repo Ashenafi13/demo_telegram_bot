@@ -1,0 +1,12 @@
+{
+  "name":"telegramBot",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.2",
+    "grammy": "^1.20.3",
+    "nodemon": "^3.0.3"
+  }
+}
